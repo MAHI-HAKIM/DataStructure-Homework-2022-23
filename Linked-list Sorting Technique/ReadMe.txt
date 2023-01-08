@@ -1,0 +1,1 @@
+1. Please put the Veriler.txt file in this directory(Just like I did)
